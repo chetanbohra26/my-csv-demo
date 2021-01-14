@@ -1,0 +1,14 @@
+{
+  "name": "csv-node",
+  "version": "1.0.0",
+  "description": "node project to serve csv files",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Chetan Bohra",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
